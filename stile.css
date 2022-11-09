@@ -1,0 +1,32 @@
+
+body{
+	background-color:skyblue; 
+	margin:45px;
+	text-align: center;
+	align-content: center;
+
+}
+h1{
+	color: forestgreen; border-style: solid; border-color: greenyellow;
+}
+h2{
+	color: greenyellow;
+}
+h3{
+	color: darkred;
+}
+
+p{
+	color: darkviolet; font: monospace; font-family: Lucida Console;
+}
+
+table, th, td {
+	border:1px solid black; 
+	margin-left: auto; 
+	margin-right: auto;
+	border-color: darkred;
+}
+
+
+
+
